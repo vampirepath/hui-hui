@@ -1,0 +1,14 @@
+{
+  "name": "gap-cutter",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Cut silences, speed up speech, and turn audio or YouTube videos into text. Runs in the browser.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo \"Nothing to build\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
